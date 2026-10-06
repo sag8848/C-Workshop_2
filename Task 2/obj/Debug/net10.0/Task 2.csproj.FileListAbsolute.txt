@@ -1,0 +1,5 @@
+C:\Users\user\RiderProjects\workshop 2\Workshop 2\Task 2\obj\Debug\net10.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\workshop 2\Workshop 2\Task 2\obj\Debug\net10.0\Task 2.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\workshop 2\Workshop 2\Task 2\obj\Debug\net10.0\Task 2.AssemblyInfo.cs
+C:\Users\user\RiderProjects\workshop 2\Workshop 2\Task 2\obj\Debug\net10.0\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\workshop 2\Workshop 2\Task 2\obj\Debug\net10.0\Task 2.sourcelink.json
